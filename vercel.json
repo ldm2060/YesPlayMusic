@@ -10,7 +10,7 @@
   "rewrites": [
     {
       "source": "/netease/:match*",
-      "destination": "http://129.150.45.86:30001/:match*"
+      "destination": "https://netease-cloud-music-api-smoky-gamma.vercel.app/:match*"
     },
     {
       "source": "/r3play/:match*",
