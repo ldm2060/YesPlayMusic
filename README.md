@@ -8,7 +8,7 @@
   <p align="center">
     高颜值的第三方网易云播放器（原YesPlayMusic）
     <br />
-    <a href="https://r3play.app" target="blank"><strong>🌎 访问DEMO</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://r3playl.app" target="blank"><strong>🌎 访问DEMO</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#%EF%B8%8F-安装" target="blank"><strong>📦️ 下载安装包</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="https://t.me/yesplaymusic" target="blank"><strong>💬 加入交流群</strong></a>
     <br />
